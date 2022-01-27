@@ -20,3 +20,5 @@ JavaFX é projetado sobre o padrão MVC :
 - Views - São as telas de interação com o usuário (UI)
 - Controllers - São as classes responsáveis por tratar as interações do usuário com as views
 (manipulação de eventos de interação com as telas)
+
+![image](https://user-images.githubusercontent.com/32016610/151272504-6019b151-c80b-4795-aa5d-04e532f42eff.png)
