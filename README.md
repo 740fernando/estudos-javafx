@@ -24,3 +24,19 @@ JavaFX é projetado sobre o padrão MVC :
 ![image](https://user-images.githubusercontent.com/32016610/151272504-6019b151-c80b-4795-aa5d-04e532f42eff.png)
 
 - Hierarquia do JavaFX: https://docs.oracle.com/javase/8/javafx/api/overview-tree.html
+
+
+# Alerts
+
+![image](https://user-images.githubusercontent.com/32016610/151721280-5368d9ac-e954-4093-a779-087fb66287c7.png)
+
+![image](https://user-images.githubusercontent.com/32016610/151721288-153aad45-f276-4f6b-9650-47b5194fd976.png)
+
+![image](https://user-images.githubusercontent.com/32016610/151721341-3284226f-0ec2-456b-bab8-09ae2faf309f.png)
+
+![image](https://user-images.githubusercontent.com/32016610/151721365-9a75d655-ed45-4533-9029-01a3472fbdf6.png)
+
+![image](https://user-images.githubusercontent.com/32016610/151721377-91b0a17c-78ad-40d8-a1dd-59d00bde7f8a.png)
+
+
+
