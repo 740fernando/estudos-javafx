@@ -44,6 +44,11 @@ JavaFX é projetado sobre o padrão MVC :
 
 ![image](https://user-images.githubusercontent.com/32016610/151729486-368aa875-977e-4f5d-98ff-741310c7efad.png)
 
+# ComboBox
+
+![image](https://user-images.githubusercontent.com/32016610/152142730-f5802d53-52c2-4451-a1f5-c6897bfabe3e.png)
+
+
 
 
 
