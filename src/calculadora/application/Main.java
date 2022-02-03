@@ -1,4 +1,4 @@
-package combobox.application;
+package calculadora.application;
 
 import java.io.IOException;
 
@@ -14,7 +14,7 @@ public class Main extends Application {
 	@Override
 	public void start(Stage stage) throws Exception {
 		try {
-			Parent parent = FXMLLoader.load(getClass().getResource("/combobox/gui/View.fxml"));
+			Parent parent = FXMLLoader.load(getClass().getResource("/calculadora/gui/View.fxml"));
 			Scene scene = new Scene(parent);
 			stage.setScene(scene);
 			stage.show();
