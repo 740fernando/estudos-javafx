@@ -4,7 +4,7 @@
 <?import javafx.scene.control.ComboBox?>
 <?import javafx.scene.layout.AnchorPane?>
 
-<AnchorPane prefHeight="300.0" prefWidth="400.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="calculadora.gui.ViewController">
+<AnchorPane prefHeight="300.0" prefWidth="400.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="combobox.gui.ViewController">
    <children>
       <ComboBox fx:id="comboBoxPerson" layoutX="36.0" layoutY="34.0" onAction="#onComboBoxPersonAction" prefWidth="150.0" promptText="Select a person..." />
       <Button fx:id="btAll" layoutX="257.0" layoutY="34.0" mnemonicParsing="false" onAction="#onBtnAllAction" prefHeight="25.0" prefWidth="30.0" text="All" />
