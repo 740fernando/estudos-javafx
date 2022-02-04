@@ -50,6 +50,38 @@ JavaFX é projetado sobre o padrão MVC :
 
 
 
+# Visão geral dos principais containers de layout
 
+Container - Componenetes especiais, nos quais você pode acomodar outros componentes, para organizar sua tela.
+
+- AnchorPane - Painel onde pode ancorar os elementos. Vantagem : Pode controlar a distancia que seu componente vai estar ancorado com relação ao AnchorPane.
+
+![image](https://user-images.githubusercontent.com/32016610/152511037-fb7e5f3e-1eae-494b-9a9a-85c4cf3e7e00.png)
+
+
+- GridPane - Um conteiner na forma de grade.
+
+![image](https://user-images.githubusercontent.com/32016610/152511216-849622ec-ad57-4aaf-a214-6812b5918d98.png)
+
+- SplitPane - Por padrão, vai colocar os componentes um ao lado do outro.
+
+![image](https://user-images.githubusercontent.com/32016610/152512783-f543c72d-d3b2-4d86-a2f2-c21092bd2cc8.png)
+
+ - VBox & HBox - São muito utilizados pela simplicidade. Vbox - O que for colocando, vai ser acomodado verticalmente um componente abaixo do outro que for inserido. HBox -
+  O que for colocando, vai ser acomodado de forma horizontal, um componente ao lado do outro que for inserido.
+  
+  ![image](https://user-images.githubusercontent.com/32016610/152513499-94c5a6ad-254b-429d-ab68-e0d337f3a553.png)
+
+  ![image](https://user-images.githubusercontent.com/32016610/152513663-3437d054-f0f2-44b5-a0a2-31b0b23152aa.png)
+
+
+- BorderPane - BorderPane apresenta as CHILDREN nas posições superior, esquerda, direita, inferior e central.
+
+
+![image](https://user-images.githubusercontent.com/32016610/152513711-647563cd-af06-4ff1-a16e-0380defdc567.png)
+
+- ScrollPane - Um Control que fornece uma viewport rolada e recortada de seu conteúdo. Ele permite que o usuário role o conteúdo diretamente (panorâmica) ou usando barras de rolagem. O ScrollPane permite a especificação da política da barra de rolagem, que determina quando as barras de rolagem são exibidas: sempre, nunca ou somente quando são necessárias. A política da barra de rolagem pode ser especificada independentemente para as barras de rolagem horizontal e vertical.
+
+![image](https://user-images.githubusercontent.com/32016610/152514361-ccb9ba30-d851-4eb2-a692-de8ecf0ffc9b.png)
 
 
